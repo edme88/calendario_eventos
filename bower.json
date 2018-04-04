@@ -1,0 +1,26 @@
+{
+  "name": "bower-pr",
+  "authors": [
+    "edme88 <edmealiciardi@gmail.com>"
+  ],
+  "description": "componentes para proyecto de calendario de congresos y eventos",
+  "main": "bower-pr",
+  "keywords": [
+    "angular",
+    "bootstrap"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "angular": "^1.6.9"
+  }
+}
