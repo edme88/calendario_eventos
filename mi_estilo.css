@@ -1,0 +1,8 @@
+.table-hover td:hover{
+    background-color: #007bff;
+}
+
+header{
+    background-color: #007bff;
+    padding: 10px;
+}
